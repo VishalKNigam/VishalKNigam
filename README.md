@@ -21,9 +21,11 @@
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/VishalKNigam">My Github Repositories</a>
   <br><br>
- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js**
+ 💬 Ask me about **HTML, CSS, JavaScript, React.js, Redux, Node.js, MongoDB, Express, SQL**
   <br><br>
  ⚡ How to reach me vishalnigam1407@gmail.com
+ <br><br>
+🔗 Connect with me on LinkedIn <a href="https://www.linkedin.com/in/VishalKNigam/">LinkedIn</a>
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
@@ -48,6 +50,8 @@
 <p>
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+<br/>
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="json" />&nbsp;&nbsp;
  <br/>
@@ -55,8 +59,8 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
 <br/>
-<img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
 
+<img src="https://img.shields.io/badge/redux%20-%23F7DF1.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
 <br/>
 </p>
 <hr>
