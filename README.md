@@ -58,7 +58,6 @@
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
-
 <img src="https://img.shields.io/badge/redux%20-%23F7DF1.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
 <br/>
 </p>
