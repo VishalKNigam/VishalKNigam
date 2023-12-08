@@ -15,7 +15,7 @@
 
  🌱 I’m currently learning **Node.js**.
   <br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/19YoGmm8AkAniS2FWrFwDLUtePpgTjK2J/view?usp=sharing">Resume</a>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1fLFMYiqcgVeSrmY1X0bEIpYvd0OkFDgF/view?usp=sharing">Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href ="https://VishalKNigam.github.io/">Portfolio</a>
   <br><br>
@@ -29,7 +29,7 @@
   
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
- <a  href="https://www.linkedin.com/in/vishal-nigam-91a304247/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a  href="https://www.linkedin.com/in/VishalKNigam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vishalnigam1407@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 <br />
