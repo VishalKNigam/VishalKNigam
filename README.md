@@ -15,7 +15,7 @@
 
  🌱 Currently, I'm actively looking for **New job opportunities 👨‍💼** to further enhance my skills and contribute to exciting projects.
   <br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1fLFMYiqcgVeSrmY1X0bEIpYvd0OkFDgF/view?usp=sharing">Resume</a>
+ 🤔 Check Out my <a href="file:///C:/Users/hp/Downloads/Vishal-Nigam-Resume%20(8).pdf">Resume</a>
   <br><br>
  👨‍💻  Know more about me <a href ="https://VishalKNigam.github.io/">Portfolio</a>
   <br><br>
