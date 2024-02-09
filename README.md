@@ -13,7 +13,7 @@
   <img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/119415006/232788353-c644eb55-f41d-4e30-ad97-4a0b88bfbbff.png">
   
 
- 🌱 I’m currently learning **Node.js**.
+ 🌱 Currently, I'm actively looking for **New job opportunities 👨‍💼** to further enhance my skills and contribute to exciting projects.
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1fLFMYiqcgVeSrmY1X0bEIpYvd0OkFDgF/view?usp=sharing">Resume</a>
   <br><br>
